@@ -1,0 +1,57 @@
+nav {
+  background-image: url("https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/79213117_501829747098818_7008117159293353984_o.jpg?_nc_cat=100&_nc_ohc=PYsGRuece8YAQl4nMfHuGtJ8tK3uudfT1eTiXIHfLZvSi-QyG3PADzjIw&_nc_ht=scontent-iad3-1.xx&oh=f8fff3165dcfbb7f081cb0825887c707&oe=5E714115");
+}
+
+.brand-logo center {
+  margin-top: 0;
+}
+
+html {
+font-size: 14px;
+font: -apple-system-body;
+}
+
+
+
+
+h1 {
+  display: inline-block;
+max-width: 500px;
+font-size: 3.5rem;
+font-family: 'Gupter', serif;
+}
+
+h2 {
+font-size: 1.8rem;
+font-family: 'Gupter', serif;
+padding-top: 0;
+margin-top: 0;
+}
+
+.article {
+font-size: 1.4rem;
+font-family: 'PT Serif', serif;
+}
+
+.here {
+font-family: 'Gupter', serif;
+margin-left: 15px;
+color: #737373;
+font-size: 1.2rem;
+}
+
+blockquote {
+  text-align: center;
+}
+
+.over {
+  position: relative;
+  color: white;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 16px;
+  left: 16px;
+  top: 340px;
+}
